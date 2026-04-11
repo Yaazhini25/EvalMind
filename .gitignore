@@ -1,0 +1,6 @@
+evalmind/node_modules/
+evalmind-backend/venv/
+evalmind-backend/__pycache__/
+evalmind-backend/audio/
+**/__pycache__/
+**/*.pyc
